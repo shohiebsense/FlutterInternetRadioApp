@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 53,
+      "radio_name": "Ardan",
+      "radio_url": "http://stream.zenolive.com/4mbfcn4mf24tv",
+      "radio_desc": "Radio ARDAN FM",
+      "radio_desc_short": "ARDAN",
+      "radio_website": "http://ardanradio.com/",
+      "radio_pic": "http://ardanradio.com/wp-content/themes/ardan/assets/images/logo.png"
+    },
+    {
+      "id": 54,
+      "radio_name": "99Ners",
+      "radio_url": "http://stream.zenolive.com/4mbfcn4mf24tv",
+      "radio_desc": "Radio 99Ners",
+      "radio_desc_short": "99",
+      "radio_website": "http://ardanradio.com/",
+      "radio_pic": "https://cdn-radiotime-logos.tunein.com/s11066q.png"
+    }
+  ]
+}
